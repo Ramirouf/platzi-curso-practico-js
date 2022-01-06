@@ -1,10 +1,8 @@
-# platzi-curso-practico-js
+# Platzi - Practical JS Course
 
-# Curso práctico de Javascript
+## Workshop #1: Geometric figures
 
-## Taller #1: figuras geométricas
-
-- Primer paso: definir las fórmulas
-- Segundo paso: implementar las fórmulas en js
-- Tercer paso: Crear funciones
-- Cuarto paso: Integrar javascript a html
+- First step: Integrate JS to HTML
+- Second step: Define formulas
+- Third step: Implement formulas in JS
+- Fourth step: Create functions
