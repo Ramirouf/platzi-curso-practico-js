@@ -78,3 +78,19 @@ function circleArea(circleRadius) {
 console.log("Circle area: " + circleArea(4) + "cm.");
 
 console.groupEnd();
+
+function calculateSquarePerimeter() {
+  const input = document.getElementById("squareInput");
+  const value = input.value;
+
+  const perimeter = squarePerim(value);
+  alert("The perimeter is: " + perimeter);
+}
+
+function calculateSquareArea() {
+  const input = document.getElementById("squareInput");
+  const value = input.value;
+
+  const area = squareArea(value);
+  alert("The area is: " + area);
+}

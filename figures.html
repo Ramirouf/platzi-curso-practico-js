@@ -7,8 +7,25 @@
     <title>Geometric figures</title>
   </head>
   <body>
-    <h1>Geometric figures</h1>
-
+    <header>
+      <h1>Geometric figures</h1>
+      <p>First workshop of Practical JS Course</p>
+    </header>
+    <section>
+      <h2>Calculate area and perimeter of a square</h2>
+      <form action="">
+        <label for="squareInput">
+          Write the length of each side of the square
+        </label>
+        <input type="number" name="" id="squareInput" />
+        <button type="button" onclick="calculateSquarePerimeter()">
+          Calculate perimeter
+        </button>
+        <button type="button" onclick="calculateSquareArea()">
+          Calculate area
+        </button>
+      </form>
+    </section>
     <script src="./figures.js"></script>
   </body>
 </html>
