@@ -8,6 +8,23 @@
   </head>
   <body>
     <h1>Percentages and discounts</h1>
+    <p>Second workshop</p>
+    <section>
+      <h2>Calculate the prices of your products with a certain discount</h2>
+      <form action="">
+        <label for="inputPrice">Enter the product's price</label>
+        <input id="inputPrice" type="number" />
+
+        <label for="inputDiscount">
+          Enter the discount to apply to the product
+        </label>
+        <input id="inputDiscount" type="number" />
+        <button type="button" onclick="onClickCalculateDiscount()">
+          Calculate price with discount
+        </button>
+        <p id="result"></p>
+      </form>
+    </section>
     <script src="./discounts.js"></script>
   </body>
 </html>
