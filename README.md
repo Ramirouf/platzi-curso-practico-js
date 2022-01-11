@@ -13,3 +13,10 @@
 - Second step: Define formulas
 - Third step: Create functions
 - Fourth step: Create functions
+
+## Workshop #3: Average, median and mode
+
+- First step: Integrate JS to HTML
+- Second step: Define formulas
+- Third step: Create functions
+- Fourth step: Create functions
